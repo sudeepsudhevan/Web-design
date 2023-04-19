@@ -1,0 +1,47 @@
+button{
+    background: rgb(13, 13, 14);
+    color: rgb(51, 99, 12);
+}
+h2{
+    color: rgb(8, 17, 58);
+}
+#nope
+{
+    color:blueviolet ;
+    font-size: 30px;
+}
+
+.content{
+    color: rgb(226, 45, 45);
+}
+#title{
+    color: rgb(5, 12, 36);
+}
+.sus{
+    color: bisque;
+}
+.outerdiv{
+    width: 300px;
+    height: 200px;
+    background:green;
+    margin-left: 20px;
+    margin-top: 80px ;
+    padding-left: 50px;
+    padding-top: 30px;
+    border: 2px solid;
+    border-color: rgb(12, 12, 12);
+}
+.white{
+    color: white;
+}
+.innerdiv{
+    color: bisque;
+    width: 130px;
+    height: 120px;
+    background-color: rgb(32, 32, 5);
+    border: 2px;
+}
+.box{
+    margin-top: 110px;
+    margin-left: 80px;
+}

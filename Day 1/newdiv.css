@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    background: rgba(8, 8, 207, 0.651);
+    height: 150px;
+}
+.left{
+    width: 200px;
+    float:left;
+    height: 800px;
+    background: rgb(24, 21, 21);
+}
+.right{
+    width: 1149px;
+    float: left;
+    height: 800px;
+    background: rgb(31, 28, 28);
+}
+.footer{
+    height: 150px;
+    background: brown;
+    width:100%;
+}
+.content{
+    height: 800px;
+
+}
+body{
+    margin: 0;
+}
