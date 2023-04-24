@@ -1,7 +1,7 @@
 var isclicked=false;
 oldvalue=""
 
-function booleanval(num){
+function operatorclicked(num){
     if(num==1){
         isclicked=true;
         oldvalue=document.getElementById("screen").value

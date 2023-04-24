@@ -60,7 +60,7 @@ body{
 .main-body{
     background: linear-gradient(white,#D3D8E8);
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 .image{
     width: 513px;
@@ -81,7 +81,34 @@ body{
     width: 150px;
     height: 35px;
     border: green;
+    font-size: 20px;
 }
 a{
     text-decoration: none;
+}
+
+#firstname{
+    width: 182px;
+    height: 28px;
+    font-weight: bold;
+}
+
+#surname{
+    width: 182px;
+    margin-left: 10px;
+    height: 28px;
+    font-weight: bold;
+}
+
+#email{
+    width: 382px;
+    height: 28px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+#password{
+    width: 382px;
+    height: 28px;
+    margin-top: 10px;
+    font-weight: bold;
 }
